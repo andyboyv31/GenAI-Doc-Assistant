@@ -6,3 +6,4 @@ __pycache__
 .env
 data/chroma_db
 data/uploads
+GenAI-Doc-Assistant-Submission/
